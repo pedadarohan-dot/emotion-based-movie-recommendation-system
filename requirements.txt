@@ -1,0 +1,7 @@
+scikit-learn
+pandas
+numpy
+transformers
+tensorflow==2.20.0
+tf-keras==2.20.0
+gradio
